@@ -1,0 +1,42 @@
+*{
+ margin: 1rem;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    font-style: normal;
+    margin-left: 40px;
+}
+
+ul{
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type:none;
+
+}
+nav{
+    width: 60vw;
+}
+.big image{
+    width: 95vw;
+    margin-left: 1rem;
+    
+}
+.container
+{
+    display: flex;
+}
+.container div{
+    text-align: center;
+}
+div>div p{
+    font-size: x-large;
+    
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color: whitesmoke;
+    font-size: x-large;
+}
